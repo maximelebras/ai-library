@@ -10,6 +10,7 @@ So welcome to this very simple library. It will likely evolve over time.
 
 ## Newsletters
 - 🇫🇷 [Intelligence Humaine — HR and AI newsletter](https://intelligencehumaine.substack.com/)
+- 🇫🇷 [Le Comptoir IA](https://nicoguyon.substack.com/)
 - 🇬🇧 [Claude Cowork](https://substack.com/@claudedesktop?r=dguo6&shareImageVariant=light)
 - 🇬🇧 [Ethan Mollick](https://www.oneusefulthing.org/)
 
