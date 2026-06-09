@@ -19,6 +19,7 @@ So welcome to this very simple library. It will likely evolve over time.
 
 ## Resources
 
+- [From Move] [From 60+ Claude Prompts for TA Leaders](https://claudeplaybookforta.netlify.app/)
 - [From Colin Dargent](https://www.linkedin.com/in/colindargent/) — [100+ Claude use cases](https://docs.google.com/spreadsheets/d/1Sg7Y49a8bEz37-Nt3SENRzmFCff0yiOmE3D4rgKrHGw/edit?gid=0#gid=0)
 - [From Guillaume Alexandre](https://www.linkedin.com/in/guillaumealexandre/) — [AI recruitment diagnostic](https://www.jarvi.tech/fr/ai-recruitment-diagnostic/)
 - [From Hugo Dollfus](https://www.linkedin.com/in/hugo-dollfus/) — [AI skills library](https://2ab22955.sibforms.com/serve/MUIFAMfS1smXE8QVdz8TKLKDKhdtQE9cYZ5roRxcbG5UAXo5DBUNxH5spn0phqWuDLzEEUjnKS8B9xFWd6oTX5r43sEObtVhqZaIhRmZ0GyIqIqzoEgdSL1rLLV5xx4-vz7Mu8F5B6Z81nFqBJLr5whcEM2O3CkLYzfaVAEVr_RcLc6zMLcPrUQ6RReKC4T2dOImFu5PQ8yeEZGgGQ==)
