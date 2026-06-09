@@ -19,6 +19,7 @@ So welcome to this very simple library. It will likely evolve over time.
 
 ## Resources
 
+- [From ScalAI] [10 Agents Claude Cowork  qui remplacent des heures de travail](https://app.notion.com/p/10-Agents-Claude-Cowork-qui-remplacent-des-heures-de-travail-344e139a5c548083bfebda2eae291425)
 - [From Move] [60+ Claude Prompts for TA Leaders](https://claudeplaybookforta.netlify.app/)
 - [From Colin Dargent](https://www.linkedin.com/in/colindargent/) — [100+ Claude use cases](https://docs.google.com/spreadsheets/d/1Sg7Y49a8bEz37-Nt3SENRzmFCff0yiOmE3D4rgKrHGw/edit?gid=0#gid=0)
 - [From Guillaume Alexandre](https://www.linkedin.com/in/guillaumealexandre/) — [AI recruitment diagnostic](https://www.jarvi.tech/fr/ai-recruitment-diagnostic/)
