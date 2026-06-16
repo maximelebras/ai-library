@@ -25,8 +25,6 @@ So welcome to this very simple library. It will likely evolve over time.
 - [From Guillaume Alexandre](https://www.linkedin.com/in/guillaumealexandre/) — [AI recruitment diagnostic](https://www.jarvi.tech/fr/ai-recruitment-diagnostic/)
 - [From Hugo Dollfus](https://www.linkedin.com/in/hugo-dollfus/) — [AI skills library](https://2ab22955.sibforms.com/serve/MUIFAMfS1smXE8QVdz8TKLKDKhdtQE9cYZ5roRxcbG5UAXo5DBUNxH5spn0phqWuDLzEEUjnKS8B9xFWd6oTX5r43sEObtVhqZaIhRmZ0GyIqIqzoEgdSL1rLLV5xx4-vz7Mu8F5B6Z81nFqBJLr5whcEM2O3CkLYzfaVAEVr_RcLc6zMLcPrUQ6RReKC4T2dOImFu5PQ8yeEZGgGQ==)
 
-## Surveys
-
 # AI-Native Talent — Assessment Forms
 
 Two ready-to-run Google Forms for measuring how AI-native a Talent function is:
