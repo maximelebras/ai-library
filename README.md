@@ -4,6 +4,11 @@ Welcome to my space where I’m gathering the AI resources I find useful. I’m 
 
 So welcome to this very simple library. It will likely evolve over time.
 
+## Tools I've created
+
+- [AI-Native Talent — Assessment Forms](https://github.com/maximelebras/AI-Native-assessment#ai-native-talent--assessment-forms) - Two ready-to-run Google Forms for measuring how AI-native a Talent function is
+- [First Principles Challenger](https://github.com/maximelebras/first-principles-challenger) A Claude Code skill that attacks your framing instead of answering your question.
+
 ## Community
 
 - [Takomu](https://www.linkedin.com/company/takomu/posts/?feedView=all) - The first French-speaking community (🇨🇭🇫🇷🇧🇪🇨🇦) dedicated to applied AI in recruiting!
